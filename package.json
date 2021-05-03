@@ -1,0 +1,18 @@
+{
+  "name": "stacked-cards",
+  "version": "1.0.0",
+  "description": "CSS + HTML Stacked Cards",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [
+    "CSS",
+    "HTML"
+  ],
+  "author": "Zorkann",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
